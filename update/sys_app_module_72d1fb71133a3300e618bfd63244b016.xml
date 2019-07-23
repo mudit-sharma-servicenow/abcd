@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="abcd">72d1bb71133a3300e618bfd63244b0ad</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>alm_asset_ci_state_mapping</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>mudit.sharma@snc</sys_created_by>
+        <sys_created_on>2019-07-23 11:46:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>72d1fb71133a3300e618bfd63244b016</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="abcd" source="sn_abcd">7471bf3113f63300e618bfd63244b031</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abcd">7471bf3113f63300e618bfd63244b031</sys_scope>
+        <sys_update_name>sys_app_module_72d1fb71133a3300e618bfd63244b016</sys_update_name>
+        <sys_updated_by>mudit.sharma@snc</sys_updated_by>
+        <sys_updated_on>2019-07-23 11:46:02</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
